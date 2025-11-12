@@ -59,7 +59,7 @@ android {
         implementation 'androidx.compose.material3:material3'
         implementation 'androidx.compose.animation:animation'  // For AnimatedContent
 
-        implementation 'com.paystack.android:paystack-ui:0.0.8'
+        implementation 'com.paystack.android:paystack-ui:0.0.10'
 
         testImplementation 'org.jetbrains.kotlin:kotlin-test'
         testImplementation 'org.mockito:mockito-core:5.0.0'
